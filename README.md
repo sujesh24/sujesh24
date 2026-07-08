@@ -5,7 +5,7 @@
 <br><br>
 
 ## 🧰 My Toolbox<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,github,react&theme=light)](https://skillicons.dev)
 
 
 
